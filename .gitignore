@@ -1,0 +1,5 @@
+node_modules/
+/access.log
+/error.log
+/vendor/
+/new-archives/
