@@ -1,0 +1,13 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "liza",
+            "email": "devd5054@gmail.com"
+        }
+    ],
+    "require": {
+        "twitter/bootstrap": "^3.3",
+        "components/jquery": "^3.2"
+    }
+}
